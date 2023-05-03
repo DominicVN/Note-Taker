@@ -30,13 +30,7 @@ I wrote the back-end `JavaScript`, connected the front-end, and then deployed th
 
 
 ## Screenshots
-|<center><b>homepage</b>|<center><b>notes page with no notes</b>|
--|-
-![][3]|![][4]
-|<center><b>notes page with one stored note and creating a new one</b>|<center><b>notes page with two stored notes. viewing a stored note</b>|
-![][5]|![][6]
 
-___
 ![image](https://user-images.githubusercontent.com/122582015/235819440-d696d4eb-8f10-45f2-bbb3-6a2ee4baf18b.png)
 ![image](https://user-images.githubusercontent.com/122582015/235819462-a33cfeb8-d86a-42c6-9a2c-967fb5760c1c.png)
 ![image](https://user-images.githubusercontent.com/122582015/235819503-668cd54b-a378-4feb-975e-48cdcd2bdd67.png)
